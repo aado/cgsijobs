@@ -1,0 +1,429 @@
+body , textarea, input, select, button, table{
+	font-size: 12px !important;
+}
+h2, .h2, h5, .modal-title {
+    font-size: 1.2rem !important;
+}
+.Tsidebar {
+    text-align: left;
+}
+
+.Aleft {
+    text-align: left !important;
+}
+
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #374155;;
+    display: table-header-group;
+    border-radius: 5px;
+	-moz-border-radius: 5px;
+	text-align: center
+}
+.divTableHead {
+	border: 1px solid #999999;
+	display: table-cell;
+    padding: 3px 10px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    padding: 5px;
+}
+.divTableCell{
+	border: 1px solid #504545;
+	display: table-cell;
+    padding: 3px 10px;
+    border-radius: 0px;
+    -moz-border-radius: 5px;
+    padding: 5px;
+}
+.divTableHeading {
+	background-color: #374155;
+	display: table-header-group;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+	height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.app {
+	height: 10em;
+	width: 10em;
+	background: lightblue;
+	overflow: hidden;
+}
+
+.w115 {
+	width: 115%;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.w230 {
+	width: 260px;
+}
+
+.h25 {
+	height: 25px;
+}
+
+.w5 {
+	width: 5px;
+}
+
+.w170 {
+	width: 600px;
+	min-width: 120px;
+}
+
+.hidden {
+	visibility: hidden;
+	position: absolute;
+}
+
+.headerAdd {
+	font-size: 2.3125rem !important;
+	color: rgb(43, 16, 78);
+}
+
+.Tsidebar li a:hover {
+	color: #81A854 !important;
+}
+
+.react-bootstrap-table table, th, td {
+	border: 1px solid #565656 !important;
+}
+
+.react-bootstrap-table table th input {
+	background-color: #2D3035;
+    color: white;
+    position: absolute;
+	top: -96px;
+    right: 0px;
+    width: 300px;
+	height: 44px;
+	border: 1px solid #565656;
+}
+
+.selectSearchDropdown {
+	position: absolute !important;
+    right: 20px !important;
+    top: -95px !important;
+    height: 43px !important;
+    width: 300px !important;
+    background-color: #2D3035;
+    border: 1px solid #565656;
+    font-size: 15px;
+    color: #81A854;
+}
+
+.displayNoneFilter {
+	display: none;
+}
+
+.imgExportCSV {
+	height: 38px;
+    cursor: pointer;
+    position: absolute;
+    right: 32px;
+    top: 13px;
+    margin-top: 222px;;
+}
+
+.imgExportCSV2 {
+	height: 38px;
+    cursor: pointer;
+    right: -1486px;
+    top: -54px;
+    position: relative;
+}
+
+.dropdownSelectForm {
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+.marginBetween {
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+#pageDropDown {
+	background-color: #2D3035 !important;
+	color: #81A854;
+	border: 1px solid #565656;
+	margin-right: 15px;
+}
+.modal-open .modal .modal-content {
+    border-radius: 0 !important;
+    background: #2d3035 !important;
+}
+
+#pageDropDown {
+    background-color: #2D3035 !important;
+    color: #81A854;
+    border: 1px solid #565656;
+    margin-right: 15px;
+    margin-top: 14px;
+}
+
+.react-bootstrap-table-pagination-list {
+    margin-top: 15px !important;
+}
+
+.page-item.active .page-link {
+    color: #fff;
+    background-color: #218838;
+    border-color: #218838;
+}
+
+.table .caret {
+		display: inline-block;
+		width: 0;
+		height: 0;
+		margin-left: 2px;
+		vertical-align: middle;
+		border-top: 4px dashed;
+		border-top: 4px solid green;
+		border-right: 4px solid transparent;
+		border-left: 4px solid transparent;
+		color: green;
+}
+	
+.dropup, .dropdown {
+	position: relative;
+}
+
+.dropup .caret, .navbar-fixed-bottom .dropdown .caret {
+	border-top: 0;
+	border-bottom: 4px dashed;
+	border-bottom: 4px solid green;
+	content: "";
+	position: relative;
+}
+
+.table thead th {
+	color: #218838;
+	font-size: 11px;
+}
+
+.table tbody td {
+	font-size: 11px !important;
+}
+
+.MuiDialog-paperWidthSm-8 {
+    max-width: 600px;
+	background-color: #2D3035 !important;
+	color: #62656A !important;
+}
+
+.MuiDialog-paperWidthSm-8 input{
+	background-color: white !important;
+	color: #62656A !important;
+}
+
+.MuiFormLabel-root-79.MuiFormLabel-error-82 {
+    color: #62656A !important;
+}
+
+.inputColor {
+	color: #62656A !important;
+}
+
+
+.addUserForm input {
+	background-color: white;
+	color: black;
+	font-size: 12px;
+}
+
+.addUserForm input::placeholder{
+	font-size: 12px;
+}
+
+.addUserForm label {
+	font-size: 12px;
+}
+
+.addUserForm textarea {
+	background-color: white;
+	color: black;
+	font-size: 12px;
+}
+
+.addUserForm select {
+	background-color: white;
+	color: black;
+	font-size: 12px;
+}
+
+.addUserForm input:disabled {
+	background-color: white;
+	color: black;
+	font-size: 12px;
+}
+
+.dropdown-menu {
+    -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,0.1), -1px -1px 2px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.1), -1px -1px 2px rgba(0,0,0,0.1);
+    color: #28a745;
+    font-size: 1rem;
+    min-width: 58px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 12px !important;
+    text-align: center;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #28a745;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+	border: 0;
+	font-size: 12px !important;
+}
+
+.dropdown-menu a {
+    padding: 0px 0px !important;
+    font-size: 0.9rem !important;
+	text-transform: none !important;
+	font-size: 12px !important;
+	text-decoration: none;
+}
+
+.dropdown-menu a:hover {
+	background-color: white;
+	color: black;
+	text-decoration: none;
+}
+
+.popover {
+    position: absolute !important;
+    will-change: transform !important;
+    top: 22% !important;
+	left: 50% !important;
+	font-size: 12px;
+}
+
+.list-group-item {
+	background-color: #2D3035 !important;
+}
+
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5);
+    --webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+
+.editorClassName {
+	background-color: white !important;
+	padding: 10px;
+} 
+	
+.card-body ul {
+	list-style-type: square !important;
+}
+
+.without_ampm::-webkit-datetime-edit-ampm-field {
+	display: none;
+  }
+  input[type=time]::-webkit-clear-button {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-o-appearance: none;
+	-ms-appearance:none;
+	appearance: none;
+	margin: -10px; 
+  }
+
+.MuiInputBase-input-42 {
+    font: inherit;
+    width: 100%;
+    color: currentColor;
+    border: 0;
+    margin: 0;
+    padding: 6px 0 7px;
+    display: block;
+    min-width: 0;
+    box-sizing: content-box;
+    background: none;
+    -webkit-tap-highlight-color: transparent;
+    color: white !important;
+}
+
+.jss42 {
+    font: inherit;
+    width: 100%;
+    color: currentColor;
+    border: 0;
+    margin: 0;
+    padding: 6px 0 7px;
+    display: block;
+    min-width: 0;
+    box-sizing: content-box;
+    background: none;
+    -webkit-tap-highlight-color: transparent;
+    color: white !important;
+}
+
+.jss6 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    transform: translate(0, 24px) scale(1);
+    color: gray !important;
+}
+
+.MuiInputLabel-formControl-6 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    transform: translate(0, 24px) scale(1);
+    color: gray !important;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+    color: black;
+  }
+
+  
+	

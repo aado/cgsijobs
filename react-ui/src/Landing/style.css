@@ -1,0 +1,15 @@
+#adovin {
+    position:absolute;
+    top:10px;
+    left:10px;
+    width:50%;
+    height:50%;
+    /* background:yellow; */
+    display:table;
+}
+
+.centerd {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
