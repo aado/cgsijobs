@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const LogInView = ({ onSubmit }) => {
 	return (
 		<div className="">
-			<form onSubmit={onSubmit} className="form-signin">atest
+			<form onSubmit={onSubmit} className="form-signin">
 				<h1 className="h3 mb-3 font-weight-normal" style={{'fontFamily': 'Impact, Charcoal, sans-serif' }}> Adovin </h1>
 				<label htmlFor="inputEmail" className="sr-only">Email address</label>
 				<input type="email" name="email" id="inputEmail" className="form-control" placeholder="Email Address" required autoFocus />
